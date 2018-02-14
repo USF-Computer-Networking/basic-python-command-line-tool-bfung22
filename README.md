@@ -1,8 +1,9 @@
 # basic-python-command-line-tool-bfung22
 basic-python-command-line-tool-bfung22 created by GitHub Classroom
 
-  -h, --help            show this help message and exit
-  -r1 RANDOM1, --random1 RANDOM1
+  -h,           --help        show this help message and exit
+  
+  -r1 RANDOM1, --random1     RANDOM1
                         Adds inputted number by a random number from 1 - 10
   -r2 RANDOM2, --random2 RANDOM2
                         Adds inputted number by a random number from 11 - 50
